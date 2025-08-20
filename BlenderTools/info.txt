@@ -1,0 +1,1 @@
+Remember to mark this folder as an asset library in your preferences.
